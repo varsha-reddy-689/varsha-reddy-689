@@ -1,7 +1,7 @@
 # Hi, I'm Varsha Reddy Arava 👋
 
 ### Software Engineer | Backend Developer | AI/ML Enthusiast  
-Currently pursuing **M.S. in Computer Science @ University of Dayton** 🎓  
+Pursued **M.S. in Computer Science @ University of Dayton** 🎓  
 I love building scalable backend systems, automation frameworks, and AI-powered applications that solve real problems.
 
 ---
